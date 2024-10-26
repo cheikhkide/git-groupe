@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+   display: flex;
+   justify-content: space-between;
+   margin: 10px;
+}
+ul a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+ul{display: flex;
+    padding: 10px;
+    list-style: none;   
+}
+nav h1{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+section{
+    background-image: url(../images/1000_F_1029998036_dABnKKOZr2Cv8DeeMmqX7dXyj76xNtTJ.jpg);
+ height: 95vh;
+    width: 100%;
+}
+section h1{
+    text-align: center;
+}
