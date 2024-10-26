@@ -2,3 +2,20 @@
     margin: 0;
     padding: 0;
 }
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(50, 50, 50);
+    color: white;
+    padding: 15px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+ul a{
+    
+    margin: 30px;
+    font-size: 22px;
+    color: white;
+}
